@@ -1,4 +1,7 @@
 # 2048-AI
+
+https://github.com/ISmillex/2048-ai/assets/72645646/9ebc09ce-dd56-4dee-a270-5481be3b1430
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
